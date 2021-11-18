@@ -1,4 +1,4 @@
-# Friendlist App
+# Friends List App
 
 * Ruby version
 
